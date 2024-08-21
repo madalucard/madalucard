@@ -5,7 +5,7 @@
 -   - Angular - 2 years
 -   - C# - passively 2,5 years
 -   - Unreal Engine beginer
-- 🌱 I’m currently learning Unreal Engine 5 and React 
+- 🌱 I’m currently learning Unreal Engine 5 and Angular 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me martin@lapihuska.sk
 
